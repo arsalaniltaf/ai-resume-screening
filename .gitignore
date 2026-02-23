@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Virtual Environment
+venv/
+.env/
+
+# MacOS
+.DS_Store
+
+# Docker
+*.pid
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit cache
+.streamlit/
+
+# PyTorch cache
+.cache/
